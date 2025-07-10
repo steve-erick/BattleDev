@@ -26,8 +26,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Frontend
 - [x] Backend
 - [x] Funcionalidades e rotas
-- [ ] Responsividade
-- [ ] Api de pagamento
+
 
 ## 💻 Pré-requisitos
 
