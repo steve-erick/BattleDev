@@ -1,23 +1,23 @@
 <div align="left">
   <!-- Logo no topo -->
-  <img src="logo.webp" width="300px" alt="Logo SaveIt">
+  <img src="logo.webp" width="300px" alt="Logo BattleDev">
   
   <!-- Badges abaixo da logo -->
   <div>
     
     
-![GitHub repo size](https://img.shields.io/github/repo-size/steve-erick/SaveIt?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/steve-erick/SaveIt?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/steve-erick/SaveIt?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/steve-erick/SaveIt?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/steve-erick/SaveIt?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/steve-erick/BattleDev?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/steve-erick/BattleDev?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/steve-erick/BattleDev?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/steve-erick/BattleDev?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/steve-erick/BattleDev?style=for-the-badge)
   
   </div>
 </div>
 
 <img src="template.png" alt="Exemplo imagem">
 
-> Projeto de loja virtual para produtos de robotica e eletronica.
+> Projeto focado em batalhas de programações entre dois devs.
 
 ### Ajustes e melhorias
 
