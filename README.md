@@ -25,6 +25,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [x] Frontend
 - [x] Backend
+- [x] Api
 - [x] Funcionalidades e rotas
 
 
