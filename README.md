@@ -141,6 +141,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#" title="defina o título do link">
+          <img src="https://avatars.githubusercontent.com/obsessoes" width="100px;" alt="Foto do steve-erick no GitHub"/><br>
+        <sub>
+          <b>obsessoes</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
